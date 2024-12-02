@@ -16,7 +16,7 @@ I modified screw-hand's script to instead export tweets in a CSV format, that wa
 
 Consider the below tweet from @github.
 
-![GitHub Universe may be over for another year but you can keep on celebrating with our special #GitHubUniverse sale. Get your hands on all our awesome Universe swag, now discounted.](github_example_tweet.png)
+![GitHub Universe may be over for another year but you can keep on celebrating with our special #GitHubUniverse sale. Get your hands on all our awesome Universe swag, now discounted.](github_example_tweet.jpg)
 
 Copying this tweet results in the following being added to your clipboard:
 
